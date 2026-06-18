@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Achal Chaudhari
-
 ## Full Name
 
 **Achal Chaudhari**
@@ -78,8 +76,8 @@ Aspiring Java Full Stack Developer with a strong foundation in Java, Spring Boot
 
 ## Connect With Me
 
-* GitHub: Add your GitHub profile link here
-* LinkedIn: Add your LinkedIn profile link here
+* GitHub: https://github.com/git-achal
+* LinkedIn: www.linkedin.com/in/achal-chaudhari25
 
 ---
 
